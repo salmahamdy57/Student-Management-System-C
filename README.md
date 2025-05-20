@@ -1,17 +1,17 @@
 # Student-Management-System-C
 
 
-## 📖 Project Overview
+### Project Overview 📖
 The Student Management System is a console-based application written in C, designed to illustrate fundamental embedded and systems programming concepts. Utilizing a singly linked list data structure, this program provides a simple yet robust platform to store, manage, and analyze student records, including operations such as creation, retrieval, updating, deletion, and statistical computation. 
 
 
-## 🎯 Objectives
+### Objectives 🎯
 - Demonstrate mastery of core C programming constructs: pointers, structures, dynamic memory allocation, and linked lists.
 - Implement a state-machine driven menu interface for continuous user interaction.
 - Apply modular programming principles to separate interface logic (main.c) from business logic (Student_Functions.c).
 - Practice error checking and resource management in low-level code suitable for embedded environments.
 
-## 💡 Key Features 
+### Key Features 💡
 
 1. Add Student
    - Prompt user for ID, name, age, and GPA
@@ -38,7 +38,7 @@ The Student Management System is a console-based application written in C, desig
    - Identify and display the student with the highest GPA
   
      
-## 🖥️ Usage Example 
+### Usage Example 🖥️
 
 -------------------------------------------------------------
 1. Add Student
