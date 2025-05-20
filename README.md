@@ -36,3 +36,24 @@ The Student Management System is a console-based application written in C, desig
 6. GPA Statistics
    - Calculate and print the average GPA
    - Identify and display the student with the highest GPA
+  
+     
+## 🖥️ Usage Example 
+
+-------------------------------------------------------------
+1. Add Student
+2. Display Students
+3. Search by ID
+4. Update Student
+5. Delete Student
+6. Calculate Average GPA
+7. Find Highest GPA
+8. Exit
+   
+Enter choice: 1
+
+Enter Student ID: 1234
+Enter Student Name: Alice
+Enter Student Age: 20
+Enter Student GPA: 3.8
+... (continue interacting)
