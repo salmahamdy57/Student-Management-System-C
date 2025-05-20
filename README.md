@@ -1,4 +1,4 @@
-# Student-Management-System-C
+# Student-Management-System
 
 
 ### Project Overview 📖
